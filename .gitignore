@@ -1,0 +1,7 @@
+accel1.ioc
+build
+cmake-build-debug
+.cproject
+.idea
+.mxproject
+.project
